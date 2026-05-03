@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # OUSysAdmin-LLMs_Template
 =======
 # LLM Tasks Template
