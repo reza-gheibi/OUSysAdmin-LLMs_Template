@@ -44,6 +44,8 @@ To perform summarization:
 ```bash
 python main.py --task summarize --model "Medical Summarization" --text_file "path/to/your/texts.txt" --output_file "summaries.json"
 >>>>>>> Initial commit: adding project files
+```
+
 
 
 ### Classification
@@ -52,3 +54,4 @@ To perform classification:
 
 ```bash
 python main.py --task classify --model "PubMedBERT" --data_file "path/to/your/data.csv" --output_file "predictions.csv"
+```
